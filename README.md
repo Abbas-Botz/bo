@@ -22,7 +22,7 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/HARISGANZ/Hanz
+> git clone https://github.com/B4NGJ4G0/wabot
 > cd Hanz
 > npm i
 ```
